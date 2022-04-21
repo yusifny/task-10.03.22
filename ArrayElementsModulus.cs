@@ -18,7 +18,7 @@ namespace ConsoleApp32
             Console.Write("Array Elements(modulus): ");
             for (i = 0; i < arr.Length; i++)
             {
-                Console.Write(arr[i] + "div");
+                Console.Write(arr[i] + " ");
             }
         }
     }
